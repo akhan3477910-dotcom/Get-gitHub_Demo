@@ -1,2 +1,2 @@
 # Get-gitHub_Demo
-Learning gitandget hub
+Learning git and get hub
